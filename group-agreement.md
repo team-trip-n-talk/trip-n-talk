@@ -1,4 +1,4 @@
-# We, the members of Trip'n'TalkF, agree to the following:
+# We, the members of Trip'n'Talk, agree to the following:
 
 # General Principles
 Practice the golden rule and remember that this is a team effort.
@@ -42,3 +42,10 @@ What is your strategy for ensuring everyone's voices are heard?
 
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? 
 - Empathetically consider each other. Give gentle feedback. Welcome the feedback.
+
+# Git Flow
+* Never push to master without group agremment and passing all test and travis.
+* Work on feature branches to be merge to development not master.
+* Development merges to master once at the end of day after review by all group members.
+* Dont create PR with broken code.
+* Practice ACP to feature branch often
